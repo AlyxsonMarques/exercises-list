@@ -4,12 +4,12 @@ The idea is keep incrementing this repository with new done exercises.
 
 
 <h2>Border-Radius</h2>
-<p>A dynamic border radius CSS generator<p><br>
-To run, put it all together in a folder, and open the html file in your browser
+<p>A dynamic border radius CSS generator<br>
+To run, put it all together in a folder, and open the html file in your browser</p>
 
 <h2>Binary to Decimal</h2>
-Convert binary numbers to decimal<br>
-To run, put it all together in a folder, and open the html file in your browser
+<p>Convert binary numbers to decimal<br>
+To run, put it all together in a folder, and open the html file in your browser</p>
 
 <h2>GitHub Statuses</h2>
 <p>Shows GitHub Statuses from <a href="https://www.githubstatus.com/">Github Status</a> using custom colors for each status<br>you can add more status colors just adding .status { color: #foobar } on public/style.css, i used <a href="https://www.npmjs.com/package/express">Express</a>, <a href="https://www.npmjs.com/package/express-handlebars">Express-Handlebars</a>, <a href="https://www.npmjs.com/package/node-fetch">Node-Fetch</a> for this project.
